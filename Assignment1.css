@@ -1,0 +1,24 @@
+#parent{
+  height: 380px;
+  width: 380px;
+  border-radius: 10px;
+  background-color: rgb(26,221,125);
+}
+
+#child{
+  padding-left: 30px;
+  padding-top: 80px;
+}
+
+p{
+  font-size: 6px;
+}
+
+button{
+  font-weight: bold;
+  border-radius: 20px;
+  height: 20px;
+  width:  85x;
+  font-size: 10px;
+}
+
