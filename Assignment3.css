@@ -1,0 +1,33 @@
+#parent{
+  height: 200px;
+  width: 100%;
+  background-image: url("Gp1.jpg");
+  background-size: cover;
+  margin-bottom: 40px;
+}
+
+#p{
+  color: grey;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+#p1{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a{
+  padding-left: 2px;
+  padding-right: 2px;
+  text-decoration: none;
+  color: blue;
+}
+
+#pp{
+  height: 500px;
+  width: 700px;
+  border: 2px solid black;
+}
+
+
